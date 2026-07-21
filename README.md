@@ -1,103 +1,70 @@
+<!-- ============ ШАПКА С НЕОНОМ ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Icy%20Dev&fontSize=70&fontAlignY=40&desc=✨%20Code.%20Create.%20Conquer.&descAlignY=65" width="100%" />
+</p>
+
+<!-- ============ ПРИВЕТСТВИЕ С ПЕЧАТЬЮ ============ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=System+Initializing...;Welcome+to+my+GitHub!;Full-Stack+Developer;DevOps+Engineer;Coffee+%26+Code+Addict" />
+</p>
+
+<!-- ============ СЧЕТЧИКИ ============ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Icy235&label=👁️+VIEWS&color=00d4ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Icy235?label=🌟+FOLLOWERS&style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/stars/Icy235?label=⭐+STARS&style=for-the-badge&color=yellow" />
+</p>
+
+---
+
+<!-- ============ ТЕРМИНАЛ ============ -->
+<details align="center">
+  <summary>⚡ <b>Запустить whoami</b></summary>
+  <br/>
   
-  
+```bash
+$ whoami
+> Icy235
 
-<br/>  
+$ cat ~/bio
+> 🔭 Строю цифровые миры
+> 🌱 Учусь бесконечно
+> 💬 Спрашивай про JS, Python, Cloud
+> 🎯 Цель: стать DevOps-ниндзя
+> 🎧 Зависаю под Lo-Fi
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-## Hey 👋, I'm Icy!  
-  
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Icy235" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Icy235&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1F5p3rmiWPIYgZ?utm_source=generator&si=1c1eb2f6ac79470a" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+$ neofetch
+OS: GitHub Profile x86_64
+Host: Icy's Brain
+Kernel: Coffee 5.0
+Uptime: ∞
+Shell: bash 5.1
+Resolution: 1920x1080 🌐
+DE: Custom
+Theme: Dark
+Icons: 💻🔥
+</details>
+```
+<!-- ============ НАВЫКИ В ВИДЕ КАРТОЧЕК ============ -->
+🧩 Технологический стек
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mui,figma" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,python,php,nginx,linux,git,bash" /> </p>
+☁️ DevOps & Cloud
+<p> <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,jenkins,githubactions" /> </p>
+📱 Mobile
+<p> <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" /> </p>
+<!-- ============ СТАТИСТИКА С ТРОФЕЯМИ ============ -->
+📊 GitHub Трофеи
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Icy235&theme=radical&no-frame=true&row=2&column=4" /> </p>
+📈 Статистика
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Icy235&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=00d4ff&title_color=00d4ff" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icy235&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff" width="40%" /> </p>
+🔥 График активности
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Icy235&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" width="90%" /> </p>
+<!-- ============ СНЕЙК-АНИМАЦИЯ ============ --><p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" /> </p>
+<!-- ============ SPOTIFY ============ -->
+🎵 Сейчас играет
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31f7wsh7b2nqpmtdbbxz3ev55smy&cover_image=true&theme=compact&show_offline=false&bar_color=00d4ff&bar_color_cover=true" width="60%" /> </p>
+<!-- ============ ЦИТАТА ДНЯ ============ --><p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
+<!-- ============ ФУТЕР С ВОЛНОЙ ============ --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /> </p><!-- ============ СВЯЗЬ ============ --><p align="center"> <a href="https://github.com/Icy235"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p><p align="center"> <i>💙 Сделано с ❤️ и ☕</i> </p> ```
